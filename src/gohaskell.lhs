@@ -1,0 +1,2 @@
+> module GoHaskell where
+
